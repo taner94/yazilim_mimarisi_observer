@@ -1,0 +1,1 @@
+# yazilim_mimarisi_observer
